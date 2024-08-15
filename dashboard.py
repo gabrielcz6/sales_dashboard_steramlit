@@ -25,7 +25,7 @@ df_ventas["tipo_producto"]=df_ventas["product_category_name"].str.split("_").str
 
 
 #configurando los filtros
-st.sidebar.image("logo.jpg")
+st.sidebar.image("logo.png")
 st.sidebar.title("Filtros")
 
 
