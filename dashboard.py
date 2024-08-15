@@ -1,4 +1,4 @@
-import dashboard as st
+import streamlit as st
 import grafico_mapa as graf1
 import grafico_lineas as graf2
 import grafico_barras as graf3
